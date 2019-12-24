@@ -6,7 +6,4 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-<iframe src="https://public.tableau.com/shared/4DTZ8XPM4?:showVizHome=no&:embed=true" width="90%" height="500"></iframe>
-</script>
-</body>
-</html>
+<iframe src="https://public.tableau.com/shared/4DTZ8XPM4?:showVizHome=no&:embed=true" width="100%" height="1000"></iframe>
