@@ -11,7 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-https://public.tableau.com/shared/9XFY9HY9K?:display_count=y&:origin=viz_share_link
+<a href="https://public.tableau.com/shared/9XFY9HY9K?:display_count=y&:origin=viz_share_link">Visit our HTML tutorial</a>
 ## Header 2
 ### Header 3
 
