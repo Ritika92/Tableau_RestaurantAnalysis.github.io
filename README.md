@@ -20,4 +20,5 @@ North Indian is the most common cuisine across the country which is decently pri
 Thus, the Restaurateur should open a “North Indian” cuisine restaurant in “Noida” and provide “Online delivery” service. 
 
 ## Pipeline
-![Alt text](relative/path/to/Pipeline.jpg?raw=true "Title")
+![Screenshot](Pipeline.png)
+
