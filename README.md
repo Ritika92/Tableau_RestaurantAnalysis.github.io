@@ -7,7 +7,7 @@ https://ritika92.github.io/Tableau_RestaurantAnalysis.github.io/
 ## Data Source:
 Zomato API https://developers.zomato.com/documentation
 ## Data collected using:
-Python script (available in this repository)
+Python script (available in this repository). The csv file created by the python script is also available in this repository. 
 ## Challenges faced:
 Zomato API only sends back 20 records per call. There were 40 cities and each city had data for 80 restaurants. Collecting data was difficult given the city ids had to be searched manually through the API.
 There are many methods the API provides to fetch different types of data. Finding the useful one was time consuming and difficult.
