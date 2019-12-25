@@ -3,7 +3,7 @@ Help a new Restaurateur decide in which city and for which cuisine he/she should
 ## Pipeline
 ![Screenshot](https://user-images.githubusercontent.com/59153134/71398388-1f343b80-25d5-11ea-9deb-2fcab2c953d8.jpg)
 ## Link to Tableau Story
-<iframe src="https://public.tableau.com/shared/4DTZ8XPM4?:showVizHome=no&:embed=true" width="100%" height="600"></iframe>
+https://public.tableau.com/shared/4DTZ8XPM4?:showVizHome=no&:embed=true
 
 ## Data Source:
 Zomato API https://developers.zomato.com/documentation
