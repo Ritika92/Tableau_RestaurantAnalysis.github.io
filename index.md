@@ -3,7 +3,7 @@
 ## Problem Statement
 Help a new Restaurateur decide in which city and for which cuisine he/she should open up a new restaurant. And what important service should be provided for a successful venture.
 
-## Story
+## Tableau Story
 <iframe src="https://public.tableau.com/shared/4DTZ8XPM4?:showVizHome=no&:embed=true" width="120%" height="680"></iframe>
 
 ## Solution suggested:
